@@ -9,7 +9,7 @@ The project focuses on clean layout design, smooth scroll animations, sidebar na
 
 ## 💻Live Preview
 
-🔗 [Live demo]( https://vimalmbca-oss.github.io/gym.html-miniproject/)
+🔗 [Live demo](https://vimalmbca-oss.github.io/pizza-websit-webdesigning/)
 
 ---
 ## 📌 Features
