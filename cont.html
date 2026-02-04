@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us - John's Pizzeria</title>
+    <link rel="icon" type="image/png" href="images/pizzira.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="cont.css">
+</head>
+<body>
+    <div class="sidebar">
+        <button class="z">X</button>
+          <h2 style="text-align: center;margin-top:-25px; color: white;" class="my1">MY SITE</h2>
+          <a href="index.html">HOME</a>
+          <a href="seri.html">SERVICES</a>
+          <a href="#about">ABOUT-US</a>
+          <a href="cont.html">CONTACT-US</a>
+          <a href="project.manu.html">VIEW-MANU</a>
+  </div>
+    <nav>
+        <a href="pizza.html"><img src="images/10001 (1).png" alt="" class="n1"></a>
+        <a href="" class="a3" >&#x2630</a>
+    </nav>
+<div class="a">   
+    <div class="a12">
+        <h2>Location 1</h2>
+        <p><i class="fa fa-location-arrow" aria-hidden="true"></i>242 W 27ST ST,NEW YORK ,NY 10011</p>
+        <p><i class="fa fa-phone" aria-hidden="true"></i>(212) 123-4567</p>
+    </div>
+    <div class="a12">
+        <h2>Location 2</h2>
+        <p><i class="fa fa-location-arrow" aria-hidden="true"></i>341 W 11ST ST,NEW YORK ,NY 10022</p>
+        <p><i class="fa fa-phone" aria-hidden="true"></i>(212) 123-3267</p>
+    </div>
+</div>
+
+<footer>
+    © 2026 John's Pizzeria | All Rights Reserved
+</footer>
+<script>
+    $(".a3").click(function (e) 
+    {
+    e.preventDefault();
+    $(".sidebar").toggle()
+  });
+  $(".z").click(function(e)
+{
+    e.preventDefault();
+    $(".sidebar").hide()
+})
+  </script>
+
+</body>
+</html>
