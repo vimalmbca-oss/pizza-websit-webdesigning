@@ -9,4 +9,59 @@ The project focuses on clean layout design, smooth scroll animations, sidebar na
 
 ## 💻Live Preview
 
+🔗 [Live demo]( https://vimalmbca-oss.github.io/gym.html-miniproject/)
+
+---
+## 📌 Features
+
+- 🍕 Beautiful homepage layout
+- 📖 About Us section
+- 📋 Full Pizza Menu section
+- 📍 Contact & Location details
+- 🕒 Working hours section
+- 📂 Sidebar navigation (jQuery toggle)
+- 🎨 Font Awesome icons integration
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- jQuery (CDN)
+
+--- 
+
+## 🔧Tools Used
+- Visual Studio Code(VS-Code)
+
+--- 
+
+## 🎯 Purpose of Project
+
+- This website is created for promotional purposes only.
+- It does not include an online ordering system.
+- The goal is to showcase the restaurant’s menu, brand, and contact details.
+
+---
+
+## 📜 Credits
+
+- Images from Freepik
+- Icons from Font Awesome
+- Fonts from google fonts
+
+
+
+
+
+
+
+
+
+
+
+
+
 
